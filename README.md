@@ -9,10 +9,10 @@
 
 <h2 align="center">👨‍💻 About Me 👨‍💻</h2>
 <br>
-- 📍Im currently located in Pretoria, South Africa
-- 💻 I’m interested in Software Development, Web Development and Computer Security.
-- 📚 I’m currently learning The C++ Programming Language.
-- 👨‍🎓 And planing to learn many more...
+- 📍Im currently located in Pretoria, South Africa <br>
+- 💻 I’m interested in Software Development, Web Development and Computer Security. <br>
+- 📚 I’m currently learning The C++ Programming Language. <br>
+- 👨‍🎓 And planing to learn many more... <br>
 
 <h2 align="center">🛠 Languages and Tools 🛠</h2>
 <br>
